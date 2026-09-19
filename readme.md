@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Este projeto apresenta um processo de análise de dados a partir de uma base de vendas que precisava passar por tratamento antes de ser utilizada
+Este projeto apresenta um processo de análise de dados a partir de uma base de vendas que precisava passar por tratamento antes de ser utilizada.
 
 O objetivo foi trabalhar o processo completo: **entender a base recebida, identificar problemas de qualidade, decidir como cada situação deveria ser tratada, validar os dados e, somente depois, iniciar a análise.**
 
